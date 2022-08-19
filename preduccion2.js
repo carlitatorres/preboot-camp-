@@ -8,6 +8,10 @@ function muestraListaDeCompras() {
     console.log(frozen);
 }
 
+//tenemos dos arreglos produce y frozen
+//en frozen agregammos un dato
+//muestra el arreglo.
+
 
 var movieLibrary = ["Bambi", "E.T.", "Toy Story"];
 movieLibrary.push("Zoro");
