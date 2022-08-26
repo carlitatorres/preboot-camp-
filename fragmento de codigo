@@ -1,0 +1,127 @@
+function hello()
+ {
+
+    console.log('hello');
+}
+hello();
+console.log('Dojo');
+/*console.log imprime('hello');
+console,log imprime ('dojo');*/
+
+
+
+
+//*funcion*//
+function hello() 
+{
+    console.log('hello');
+    //imprimimos hello
+    return 15;
+    //retomamos15
+}
+//declaramos una variable resultado
+//y instaciamos la funcion hello(), hello() retoma el valor 15 
+var result = hello();
+//result =15
+
+console.log('result is', result);
+//imprimimos el result is 15.
+
+function numPlus(num) {
+    console.log('num is', num);
+    return num+15;
+}
+var result = numPlus(3);
+console.log('result is', result);
+
+console.log(15);
+/*
+3
+/*esto es una funcion*/
+function numPlus(num){
+    //imprime num is 3
+    console.log('num is', result);
+
+    //retorna 18
+    return num +15;
+}
+var result=15;
+console.log(num);
+function logAndreturn(num2){
+    console.log(num2);
+    returnnum2;
+}
+var result = logAndreturn(10);
+
+
+
+console.log(result);
+console.log(num);
+//la funcion logAndreturn me va a mostrar dos veces el parametro o argumento.
+
+
+
+varnum=15
+console.log(num);
+function timesTwo (num2)
+console.log(num2);
+return num2*2;
+
+var result= timestwo(10);
+console.log(result);
+console.log (num);
+
+//console.log imprimira [15]
+//console.log imprimira[10
+//console.log imprimira [20]
+//console.log.imprimira [15]
+
+/*
+variable      values 
+num            15
+result        10
+/*
+  
+
+funcion timesTwoAgain(num){
+     console.log('num is', num);
+     //imprime el numero ingresado
+
+     //caso7
+     */
+    function sumNums (num1, num2) 
+    return num1+num2;
+
+//esta funcion se suma los parametros/argumentos.
+//luego esa suma la muestra en el return.
+console.log(sumNum(2,3))
+//muestro la funcion y sumo  2+3 y muestra 5 
+console.log(sumNums(3,5))
+//muestro la funcion y sumo 3+5 y muestra 8.
+
+//caso 9
+function sumNums(num1,num2)
+//retorna 18 
+return num+15;
+
+
+
+
+var result= numplus (3);
+console.log('result is ', result);
+/*
+variable           valores 
+result             18*/
+
+
+var num = 15;
+console.log (num);
+
+function logAndReturn(num2)
+console.log(num2);
+return num2;
+
+
+var result=logAndReturn(10);
+
+

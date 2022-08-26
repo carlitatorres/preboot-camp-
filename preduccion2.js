@@ -19,3 +19,17 @@ movieLibrary[1] = "Beetlejuice";
 console.log(movieLibrary);
 
 //creo un arreglo llamado movielibrary, ingreso dato "zoro" y despues reeplazo ET por Beetlejuice
+function calcularPropina (totalCuenta, porcentajePropina){
+    //
+        var totalCuenta;
+        var porcentajePropina;
+        var propina = totalCuenta * porcentajePropina;
+        return propina; 
+    }
+    calcularPropina(140, .20);
+
+
+
+
+    
+   
